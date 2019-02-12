@@ -1,2 +1,2 @@
 # springcloud-consul
-springcloud use consul as register center
+springcloud use consul as register center  
